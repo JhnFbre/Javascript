@@ -1,0 +1,13 @@
+*{
+	margin:0;
+	padding:0;
+}
+h1{
+	color:red;
+	font-family:Arial;
+	margin-bottom:15px;	
+	text-align:center;
+}
+a{
+	margin-right: 10px;
+}
